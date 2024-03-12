@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRVS8KncfEboNFzZAQu77JA5z9dqpq9IGE/NETBZBpoSZ2R4X/OVOhthnWWWn95LwtGf9aLD5h1YjWzwSQriAw==",
+  "success": true,
+  "projectFilePath": "/home/sokmontrey/ieee/graph/mst/mst.csproj",
+  "expectedPackageFiles": [
+    "/home/sokmontrey/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

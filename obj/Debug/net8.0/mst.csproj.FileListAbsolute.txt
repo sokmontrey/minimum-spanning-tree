@@ -1,0 +1,14 @@
+/home/sokmontrey/ieee/graph/mst/bin/Debug/net8.0/mst
+/home/sokmontrey/ieee/graph/mst/bin/Debug/net8.0/mst.deps.json
+/home/sokmontrey/ieee/graph/mst/bin/Debug/net8.0/mst.runtimeconfig.json
+/home/sokmontrey/ieee/graph/mst/bin/Debug/net8.0/mst.dll
+/home/sokmontrey/ieee/graph/mst/bin/Debug/net8.0/mst.pdb
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.GeneratedMSBuildEditorConfig.editorconfig
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.AssemblyInfoInputs.cache
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.AssemblyInfo.cs
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.csproj.CoreCompileInputs.cache
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.dll
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/refint/mst.dll
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.pdb
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/mst.genruntimeconfig.cache
+/home/sokmontrey/ieee/graph/mst/obj/Debug/net8.0/ref/mst.dll
